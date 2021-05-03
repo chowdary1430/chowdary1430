@@ -1,0 +1,30 @@
+<!Doc TYPE html>
+<html>
+<head>
+<title yoshithaa creations</title>
+<linkrel="style sheet"type="text/class"herf="css/style.css">
+</head>
+<body>
+<header>
+<div class="main">
+<div class="logo">
+<img scr="logo.png">
+</div>
+<li class="active"><ahref"="home</a></li>
+<li class="#"><ahref"="service</a></li>
+<li class="#"><ahref"="gallery</a></li>
+<li class="#"><ahref"="about</a></li>
+<li>a herf="#">contact</a><li>
+</ul>
+</div> <div class="title">
+<h1>yoshithaa></h1>
+</duv>
+</header>
+</body>
+</html>
+</div>
+<div class="button">
+<a href=#"watchviedoes</a>
+<a href="learn more</a>
+</div>
+
